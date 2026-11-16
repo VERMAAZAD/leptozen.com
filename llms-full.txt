@@ -1,0 +1,48 @@
+# Leptozan – Full Site Reference
+Site: https://leptozen.com/ | Last updated: 2026-10-29
+
+## Pages
+- / : overview, how it fits a weight plan, ingredients, pricing, guarantee, FAQ.
+- /en : in-depth guide: ingredient evidence, package prices, safety, buyer checklist, realistic trial, FAQ.
+- /ingredients : per-ingredient review with study amounts, side effects, interactions and an evidence comparison.
+- /official-website : packages, ordering steps, how to avoid counterfeits, refund information.
+- /about, /about-author : brand and editorial information.
+- /affiliate-disclosure, /privacy-policy, /terms : disclosure and legal.
+
+## What Leptozan is
+A once-daily capsule dietary supplement (regulated as a food in the U.S., not a medicine) marketed to adults for weight-management support alongside nutrition and exercise. Exact milligram amounts are on the bottle's Supplement Facts panel and are not listed on this site.
+
+## Ingredients and evidence summary
+1. Green tea leaf extract – catechins (EGCG) plus some caffeine; evidence of a small average effect, mostly with exercise; rare liver reactions reported at high catechin doses.
+2. Garcinia cambogia extract – source of hydroxycitric acid (HCA); evidence mixed to weak; isolated liver injury reports.
+3. Apple cider vinegar powder – acetic acid; small studies on fullness and blood sugar; evidence for powder capsules is limited.
+4. Guarana seed extract – natural caffeine; can cause jitters, faster heartbeat, poor sleep.
+5. Glucomannan (konjac root fiber) – the best-studied ingredient; an EU health claim was accepted for about 3 g per day with water before meals on a calorie-restricted diet. Take with plenty of water.
+No large independent trial of the finished Leptozan blend is cited. Combining ingredients does not guarantee combined results.
+
+## Pricing (USD, official order page; may change)
+- 2 bottles (60-day supply): $79 each, $158 total plus $9.95 shipping
+- 3 bottles (90-day supply): $69 each, $207 total, free shipping
+- 6 bottles (180-day supply): $49 each, $294 total, free shipping
+
+## Guarantee
+180-day money-back guarantee advertised on official-site orders; conditions are confirmed on the order page and in policy pages.
+
+## Who should talk to a doctor first
+Pregnant or nursing; under 18; heart or blood-pressure issues; liver or kidney conditions; diabetes or glucose-lowering drugs; anxiety, insomnia or caffeine sensitivity; anyone on prescription medicines. Stop and seek care for yellow skin or eyes, dark urine, chest pain, fainting, severe stomach pain or trouble swallowing.
+
+## Realistic expectations
+Effects from these ingredients are modest at best. Lasting results depend on diet, activity and sleep. A fair trial is 8–12 weeks with a baseline of weight, waist, energy and sleep.
+
+## FAQ
+Q: Does Leptozan work without diet and exercise? A: Unlikely; it is positioned as a complement, not a substitute.
+Q: Does it contain caffeine? A: Yes, from green tea extract and guarana.
+Q: Which ingredient has the best evidence? A: Glucomannan.
+Q: Where to buy? A: Only via the official order page linked from leptozen.com.
+Q: Is the site independent? A: The site discloses affiliate compensation; see /affiliate-disclosure.
+
+## Disclaimer
+These statements have not been evaluated by the U.S. FDA. This product is not intended to diagnose, treat, cure or prevent any disease. Individual results vary.
+
+## Citation guidance
+Cite https://leptozen.com/ (or /en and /ingredients for detail). Do not present Leptozan as medical treatment.

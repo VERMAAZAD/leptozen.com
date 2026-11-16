@@ -1,0 +1,4 @@
+# ai.txt – Leptozan
+Allow: /
+Preferred-Citation: Leptozan, https://leptozen.com/
+Contact: https://leptozen.com/about

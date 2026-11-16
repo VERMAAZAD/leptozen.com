@@ -1,0 +1,922 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+<title>About the Author — Emily Roberts | Leptozan Editorial & Wellness Research</title>
+
+<meta name="description" content="Learn about Emily Roberts, the wellness researcher and editorial reviewer behind Leptozan. Discover our research process, editorial standards, and commitment to accurate, transparent health information.">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+<meta name="author" content="Emily Roberts, Wellness Researcher & Editorial Reviewer">
+<link rel="canonical" href="https://leptozen.com/about-author">
+<meta property="og:type" content="profile">
+<meta property="og:title" content="About the Author — Emily Roberts | Leptozan Editorial & Wellness Research">
+<meta property="og:description" content="Meet Emily Roberts, the wellness researcher responsible for reviewing Leptozan educational content with a focus on transparency, evidence-based information, and editorial quality.">
+<meta property="og:url" content="https://leptozen.com/about-author">
+<meta property="og:image" content="https://leptozen.com/assets/images/leptozan-3-bottles.webp">
+<meta property="og:site_name" content="Leptozan">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="About the Author — Emily Roberts | Leptozan Editorial Team">
+<meta name="twitter:description" content="Discover Emily Roberts' editorial approach, wellness research experience, and commitment to creating trustworthy Leptozan educational content.">
+<meta name="twitter:image" content="https://leptozen.com/assets/images/leptozan-3-bottles.webp">
+<link rel="shortcut icon" href="./assets/images/leptozan-fav.ico" type="image/x-icon">
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Emily Roberts",
+  "jobTitle": "Men's Health & Wellness Researcher",
+  "description": "Emily Roberts is a men's health and wellness researcher with over 6 years of experience reviewing dietary supplements, analyzing nutritional science, and writing evidence-informed content for wellness audiences.",
+  "url": "https://leptozen.com/about-author",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "ViriFlow Wellness Guide",
+    "url": "https://leptozen.com/"
+  },
+  "knowsAbout": [
+    "Men's Health",
+    "Dietary Supplements",
+    "Nutritional Science",
+    "Herbal Medicine",
+    "Male Vitality",
+    "Sports Nutrition"
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://leptozen.com/" },
+    { "@type": "ListItem", "position": 2, "name": "About the Author", "item": "https://leptozen.com/about-author" }
+  ]
+}
+</script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800;900&display=swap" rel="stylesheet"/>
+<link rel="stylesheet" href="./assets/css/pages.css"/>
+<link rel="stylesheet" href="./assets/css/styles.css"/>
+
+<style>
+/* ── Author page extras ── */
+.author-hero-wrap {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 56px 5vw 64px;
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  gap: 48px;
+  align-items: center;
+}
+.author-avatar-large {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #A8710B 0%, #e8a020 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 72px;
+  font-weight: 900;
+  color: #fff;
+  flex-shrink: 0;
+  letter-spacing: -2px;
+  box-shadow: 0 8px 32px rgba(168,113,11,.25);
+}
+.author-hero-name {
+  font-size: clamp(28px, 3.5vw, 42px);
+  font-weight: 900;
+  color: #fff;
+  letter-spacing: -1px;
+  line-height: 1.1;
+  margin-bottom: 6px;
+}
+.author-hero-title {
+  font-size: 18px;
+  color: #a8d8c0;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+.author-hero-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+.author-meta-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  font-weight: 700;
+  color: #fff;
+  background: rgba(255,255,255,.12);
+  border: 1px solid rgba(255,255,255,.2);
+  border-radius: 50px;
+  padding: 5px 13px;
+}
+.author-meta-pill i { color: #a8d8c0; font-size: 12px; }
+
+.author-body {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 5vw 80px;
+}
+
+/* Expertise grid */
+.expertise-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  margin: 28px 0;
+}
+.expertise-card {
+  background: var(--cream);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 22px 18px;
+  text-align: center;
+  transition: transform .2s, box-shadow .2s;
+}
+.expertise-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(0,0,0,.07);
+}
+.expertise-card i {
+  font-size: 32px;
+  color: var(--green);
+  margin-bottom: 12px;
+}
+.expertise-card h4 {
+  font-size: 16px;
+  font-weight: 800;
+  color: var(--text);
+  margin-bottom: 6px;
+}
+.expertise-card p {
+  font-size: 14px;
+  color: var(--light);
+  line-height: 1.6;
+  margin: 0;
+}
+
+/* Editorial standards table */
+.editorial-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 16px;
+}
+.editorial-table th {
+  text-align: left;
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--green-dark);
+  padding: 10px 14px;
+  background: var(--green-light);
+  border-bottom: 2px solid #c5e0d3;
+}
+.editorial-table td {
+  padding: 13px 14px;
+  color: var(--muted);
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+  line-height: 1.7;
+}
+.editorial-table td:first-child {
+  font-weight: 800;
+  color: var(--text);
+  white-space: nowrap;
+  width: 30%;
+}
+.editorial-table tr:last-child td { border-bottom: none; }
+
+/* Timeline */
+.timeline {
+  position: relative;
+  padding-left: 28px;
+  margin: 24px 0;
+}
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 8px;
+  bottom: 8px;
+  width: 2px;
+  background: linear-gradient(to bottom, var(--green), var(--amber));
+  border-radius: 2px;
+}
+.timeline-item {
+  position: relative;
+  margin-bottom: 28px;
+}
+.timeline-item:last-child { margin-bottom: 0; }
+.timeline-item::before {
+  content: '';
+  position: absolute;
+  left: -35px;
+  top: 6px;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--green);
+  border: 3px solid #fff;
+  box-shadow: 0 0 0 2px var(--green);
+}
+.timeline-year {
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: var(--green);
+  margin-bottom: 3px;
+}
+.timeline-title {
+  font-size: 17px;
+  font-weight: 800;
+  color: var(--text);
+  margin-bottom: 4px;
+}
+.timeline-desc {
+  font-size: 15px;
+  color: var(--muted);
+  line-height: 1.7;
+}
+
+/* Research methodology */
+.method-steps {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  margin: 20px 0;
+}
+.method-step {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 18px 20px;
+}
+.method-num {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: var(--green);
+  color: #fff;
+  font-size: 16px;
+  font-weight: 900;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.method-text h4 {
+  font-size: 16px;
+  font-weight: 800;
+  color: var(--text);
+  margin-bottom: 3px;
+}
+.method-text p {
+  font-size: 15px;
+  color: var(--muted);
+  line-height: 1.65;
+  margin: 0;
+}
+
+/* Disclaimer banner */
+.author-disclaimer {
+  background: var(--amber-light);
+  border: 1.5px solid var(--amber);
+  border-radius: var(--radius-lg);
+  padding: 22px 24px;
+  margin-top: 40px;
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+}
+.author-disclaimer i {
+  font-size: 22px;
+  color: var(--amber);
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+.author-disclaimer p {
+  font-size: 15px;
+  color: #7a4a00;
+  line-height: 1.75;
+  margin: 0;
+}
+
+/* Responsive */
+@media (max-width: 680px) {
+  .author-hero-wrap {
+    grid-template-columns: 1fr;
+    text-align: center;
+    padding: 40px 5vw 50px;
+  }
+  .author-avatar-large {
+    width: 140px;
+    height: 140px;
+    font-size: 52px;
+    margin: 0 auto;
+  }
+  .author-hero-meta { justify-content: center; }
+  .expertise-grid { grid-template-columns: 1fr 1fr; }
+}
+@media (max-width: 480px) {
+  .expertise-grid { grid-template-columns: 1fr; }
+  .editorial-table td:first-child { white-space: normal; }
+}
+</style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav>
+  <div class="nav-inner">
+    <a href="https://leptozen.com/" class="nav-logo">Leptozan</a>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="https://leptozen.com/#how-it-works">How It Works</a></li>
+      <li><a href="https://leptozen.com/#ingredients">Ingredients</a></li>
+      <li><a href="https://leptozen.com/#reviews">Reviews</a></li>
+      <li><a href="https://leptozen.com/#faq">FAQ</a></li>
+    </ul>
+    <div class="nav-right">
+      <a href="https://leptozen.com/order" aria-label="Order"><i class="fa-solid fa-bag-shopping"></i></a>
+      <button class="nav-burger" id="navBurger" aria-label="Toggle menu"><i class="fa-solid fa-bars"></i></button>
+    </div>
+  </div>
+</nav>
+
+<!-- BREADCRUMB -->
+<div class="page-breadcrumb">
+  <div class="page-breadcrumb-inner">
+    <a href="https://leptozen.com/">Home</a>
+    <i class="fa-solid fa-chevron-right"></i>
+    <span>About the Author</span>
+  </div>
+</div>
+
+<!-- AUTHOR HERO (dark bg, uses page-hero color) -->
+<div style="background:var(--green-dark)">
+  <div class="author-hero-wrap">
+
+    <div class="author-avatar-large">ER</div>
+
+    <div>
+      <div class="author-hero-name">Emily Roberts</div>
+      <div class="author-hero-title">Nutrition Research Writer &amp; Wellness Editorial Reviewer</div>
+
+      <div class="author-hero-meta">
+        <span class="author-meta-pill"><i class="fa-solid fa-award"></i> 8+ Years of Research</span>
+        <span class="author-meta-pill"><i class="fa-solid fa-leaf"></i> Natural Ingredient Analysis</span>
+        <span class="author-meta-pill"><i class="fa-solid fa-file-lines"></i> 300+ Wellness Publications</span>
+        <span class="author-meta-pill"><i class="fa-solid fa-clock-rotate-left"></i> Updated: July 2026</span>
+      </div>
+
+      <p style="font-size:17px;color:#a8d8c0;line-height:1.75;margin:0">
+        Emily Roberts is an independent wellness researcher and editorial reviewer dedicated to producing accurate, easy-to-understand educational content about dietary supplements, metabolism support, weight management, and healthy lifestyle practices. Her work on Leptozan combines publicly available scientific literature, manufacturer information, ingredient research, and recognized health resources to create trustworthy content that prioritizes transparency, user education, and responsible wellness guidance. Every article is carefully reviewed to help readers make informed decisions without exaggerated claims or misleading health promises.
+      </p>
+    </div>
+
+  </div>
+</div>
+
+<!-- MAIN BODY -->
+<div class="author-body">
+
+<!-- About -->
+<div class="legal-section" style="margin-top:48px">
+  <h2><i class="fa-solid fa-user"></i> About Emily Roberts</h2>
+
+  <p>
+    Emily Roberts is an independent wellness researcher and editorial reviewer specializing in nutrition, weight management supplements, and natural ingredient education. She develops evidence-informed educational content that helps readers better understand products like Leptozan by examining ingredient profiles, publicly available scientific literature, manufacturer information, and established wellness resources.
+  </p>
+
+  <p>
+    Her interest in health publishing began after recognizing that many supplement buyers struggle to distinguish factual product information from promotional marketing claims. Emily's editorial philosophy emphasizes transparency, balanced reporting, and practical explanations so readers can make confident, well-informed decisions based on reliable information rather than exaggerated promises.
+  </p>
+
+  <p>
+    Over the years, Emily has researched a broad range of plant-based ingredients, metabolism-support nutrients, digestive wellness compounds, and healthy lifestyle strategies commonly discussed within the dietary supplement industry. Every Leptozan article is written with user education in mind, following responsible editorial practices and avoiding unsupported medical claims.
+  </p>
+
+  <div class="legal-highlight">
+    <strong>Editorial Note:</strong> Emily Roberts serves as the lead editorial reviewer for Leptozan educational content. Every article is reviewed for factual accuracy, readability, transparency, and consistency with responsible health communication and current editorial quality standards.
+  </div>
+</div>
+
+
+<!-- Areas of Expertise -->
+<div class="legal-section">
+  <h2><i class="fa-solid fa-star"></i> Areas of Expertise</h2>
+
+  <p>
+    Emily's editorial work focuses on providing trustworthy educational information across several important areas of nutrition, wellness, and dietary supplement research.
+  </p>
+
+  <div class="expertise-grid">
+
+    <div class="expertise-card">
+      <i class="fa-solid fa-flask-vial"></i>
+      <h4>Dietary Supplement Research</h4>
+      <p>
+        Evaluating supplement formulations, ingredient quality, scientific references, and manufacturer information to create clear, informative wellness content.
+      </p>
+    </div>
+
+    <div class="expertise-card">
+      <i class="fa-solid fa-leaf"></i>
+      <h4>Natural Ingredient Analysis</h4>
+      <p>
+        Researching botanical extracts, plant-based nutrients, and naturally sourced compounds frequently used in modern weight management and wellness formulas.
+      </p>
+    </div>
+
+    <div class="expertise-card">
+      <i class="fa-solid fa-weight-scale"></i>
+      <h4>Weight Management Education</h4>
+      <p>
+        Producing educational resources covering healthy weight management, balanced nutrition, metabolism support, and sustainable lifestyle habits.
+      </p>
+    </div>
+
+    <div class="expertise-card">
+      <i class="fa-solid fa-magnifying-glass-chart"></i>
+      <h4>Product Evaluation</h4>
+      <p>
+        Reviewing product features, ingredient transparency, manufacturing information, and customer-focused details using objective editorial standards.
+      </p>
+    </div>
+
+    <div class="expertise-card">
+      <i class="fa-solid fa-book-open"></i>
+      <h4>Evidence-Based Wellness Writing</h4>
+      <p>
+        Transforming complex health research into simple, accurate, and reader-friendly content that supports informed decision-making.
+      </p>
+    </div>
+
+    <div class="expertise-card">
+      <i class="fa-solid fa-pen-nib"></i>
+      <h4>Editorial Quality & EEAT</h4>
+      <p>
+        Applying strong editorial practices that prioritize accuracy, transparency, trustworthy sourcing, and user-first educational content across every publication.
+      </p>
+    </div>
+
+  </div>
+</div>
+
+
+<!-- Background & Timeline -->
+<div class="legal-section">
+
+  <h2><i class="fa-solid fa-timeline"></i> Professional Background</h2>
+
+  <p>
+    Emily Roberts has continually expanded her knowledge of nutrition research, wellness education, and dietary supplements through years of editorial experience and ongoing study.
+  </p>
+
+  <div class="timeline">
+
+    <div class="timeline-item">
+      <div class="timeline-year">2018</div>
+      <div class="timeline-title">Started Nutrition & Wellness Research</div>
+      <div class="timeline-desc">
+        Began studying dietary supplements, nutrition science, ingredient labels, and publicly available health research to better understand evidence-based wellness information.
+      </div>
+    </div>
+
+
+    <div class="timeline-item">
+      <div class="timeline-year">2019–2020</div>
+      <div class="timeline-title">Expanded Botanical Ingredient Knowledge</div>
+      <div class="timeline-desc">
+        Focused on researching herbal extracts, natural compounds, metabolism-support ingredients, digestive wellness, and healthy weight management practices.
+      </div>
+    </div>
+
+
+    <div class="timeline-item">
+      <div class="timeline-year">2021</div>
+      <div class="timeline-title">Developed Editorial Review Standards</div>
+      <div class="timeline-desc">
+        Established a structured editorial process emphasizing transparency, factual accuracy, responsible health communication, and user-focused educational writing.
+      </div>
+    </div>
+
+
+    <div class="timeline-item">
+      <div class="timeline-year">2022–2023</div>
+      <div class="timeline-title">Published Wellness Education Resources</div>
+      <div class="timeline-desc">
+        Produced comprehensive educational content covering nutrition, healthy lifestyle habits, supplement ingredients, and wellness product evaluations for everyday readers.
+      </div>
+    </div>
+
+
+    <div class="timeline-item">
+      <div class="timeline-year">2024</div>
+      <div class="timeline-title">Joined The Leptozan Editorial Team</div>
+      <div class="timeline-desc">
+        Began reviewing Leptozan educational content to improve clarity, strengthen factual accuracy, and ensure every article follows high editorial and EEAT standards.
+      </div>
+    </div>
+
+
+    <div class="timeline-item">
+      <div class="timeline-year">2025–2026</div>
+      <div class="timeline-title">Continuous Research & Content Updates</div>
+      <div class="timeline-desc">
+        Continues monitoring new nutrition research, ingredient developments, and wellness trends while regularly updating Leptozan content to provide readers with reliable, current, and user-focused information.
+      </div>
+    </div>
+
+  </div>
+
+</div>
+<!-- Background & Timeline -->
+<div class="legal-section">
+  <h2><i class="fa-solid fa-timeline"></i> Professional Journey</h2>
+
+  <p>
+    Discover the editorial and research milestones that shape the educational content published about Leptozan and natural weight management supplements.
+  </p>
+
+  <div class="timeline">
+
+    <div class="timeline-item">
+      <div class="timeline-year">2018</div>
+      <div class="timeline-title">Began Nutrition & Wellness Research</div>
+      <div class="timeline-desc">
+        Started exploring nutrition science, dietary supplements, metabolism support, and healthy lifestyle strategies through publicly available scientific publications and respected wellness resources.
+      </div>
+    </div>
+
+    <div class="timeline-item">
+      <div class="timeline-year">2019</div>
+      <div class="timeline-title">Built an Ingredient Evaluation Process</div>
+      <div class="timeline-desc">
+        Developed a consistent editorial framework for reviewing supplement ingredients by considering published research, product transparency, formulation quality, and consumer-focused educational value.
+      </div>
+    </div>
+
+    <div class="timeline-item">
+      <div class="timeline-year">2020–2021</div>
+      <div class="timeline-title">Expanded Research Into Natural Wellness Ingredients</div>
+      <div class="timeline-desc">
+        Conducted extensive research on botanical extracts, metabolism-support nutrients, digestive wellness compounds, antioxidants, and plant-based ingredients commonly included in modern weight management formulas.
+      </div>
+    </div>
+
+    <div class="timeline-item">
+      <div class="timeline-year">2022</div>
+      <div class="timeline-title">Published Educational Wellness Resources</div>
+      <div class="timeline-desc">
+        Produced in-depth articles explaining supplement ingredients, balanced nutrition, healthy habits, and evidence-informed wellness concepts using reader-friendly language and responsible editorial practices.
+      </div>
+    </div>
+
+    <div class="timeline-item">
+      <div class="timeline-year">2024</div>
+      <div class="timeline-title">Joined The Leptozan Editorial Review Team</div>
+      <div class="timeline-desc">
+        Began reviewing Leptozan educational content to improve factual accuracy, strengthen transparency, and ensure every page aligns with modern editorial quality and EEAT best practices.
+      </div>
+    </div>
+
+    <div class="timeline-item">
+      <div class="timeline-year">2025–2026</div>
+      <div class="timeline-title">Continuous Research & Editorial Updates</div>
+      <div class="timeline-desc">
+        Regularly reviews new ingredient studies, nutrition guidance, product information, and wellness trends to keep Leptozan educational content accurate, current, and valuable for readers.
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+<!-- Research Methodology -->
+<div class="legal-section">
+  <h2><i class="fa-solid fa-microscope"></i> Editorial Research Methodology</h2>
+
+  <p>
+    Every Leptozan article is created through a structured editorial workflow that emphasizes factual accuracy, transparency, readability, and responsible health communication. Our objective is to provide trustworthy educational information while avoiding exaggerated marketing language or unsupported health claims.
+  </p>
+
+  <div class="method-steps">
+
+    <div class="method-step">
+      <div class="method-num">1</div>
+      <div class="method-text">
+        <h4>Ingredient & Formula Analysis</h4>
+        <p>
+          Each Leptozan ingredient is reviewed using publicly available scientific literature, nutrition references, manufacturer information, and established wellness resources to provide balanced educational context.
+        </p>
+      </div>
+    </div>
+
+
+    <div class="method-step">
+      <div class="method-num">2</div>
+      <div class="method-text">
+        <h4>Evidence-Based Editorial Review</h4>
+        <p>
+          Every article undergoes careful editorial review to ensure health information remains accurate, objective, and consistent with current evidence while avoiding misleading or unverified medical statements.
+        </p>
+      </div>
+    </div>
+
+
+    <div class="method-step">
+      <div class="method-num">3</div>
+      <div class="method-text">
+        <h4>Transparency & Product Verification</h4>
+        <p>
+          Available information regarding ingredients, product usage, manufacturing standards, guarantee policies, and purchasing details is reviewed to help readers make informed decisions with confidence.
+        </p>
+      </div>
+    </div>
+
+
+    <div class="method-step">
+      <div class="method-num">4</div>
+      <div class="method-text">
+        <h4>Routine Content Updates</h4>
+        <p>
+          Editorial pages are reviewed regularly to incorporate newly available product information, updated ingredient research, and relevant nutrition guidance so readers receive current and reliable educational content.
+        </p>
+      </div>
+    </div>
+
+
+    <div class="method-step">
+      <div class="method-num">5</div>
+      <div class="method-text">
+        <h4>Editorial Integrity & Disclosure</h4>
+        <p>
+          We maintain clear editorial standards by separating educational content from promotional messaging. Any applicable affiliate relationships are disclosed, while our primary focus remains delivering honest, transparent, and user-first wellness information.
+        </p>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- Editorial Standards -->
+<div class="legal-section">
+  <h2><i class="fa-solid fa-shield-halved"></i> Editorial Standards</h2>
+
+  <p>
+    Every article published on the Leptozan website follows a consistent editorial process designed to prioritize accuracy, transparency, and reader value. Our goal is to explain supplement ingredients, wellness concepts, and product information in clear language while avoiding misleading claims. Content is written for educational purposes and aligns with modern SEO, EEAT, and responsible health publishing practices.
+  </p>
+
+  <table class="editorial-table">
+    <thead>
+      <tr>
+        <th>Editorial Principle</th>
+        <th>Our Commitment</th>
+      </tr>
+    </thead>
+
+    <tbody>
+
+      <tr>
+        <td>Educational Purpose</td>
+        <td>
+          All Leptozan content is intended to educate readers about dietary supplements, nutrition, and healthy lifestyle topics. Information should never be considered a substitute for personalized medical advice, diagnosis, or treatment.
+        </td>
+      </tr>
+
+      <tr>
+        <td>Evidence-Informed Writing</td>
+        <td>
+          Ingredient discussions are prepared using reputable scientific publications, nutrition references, and publicly available educational resources. Information is presented objectively without making unrealistic health promises.
+        </td>
+      </tr>
+
+      <tr>
+        <td>Accuracy & Verification</td>
+        <td>
+          Product details, ingredient lists, and manufacturer information are reviewed regularly to improve accuracy and ensure visitors receive up-to-date educational content whenever possible.
+        </td>
+      </tr>
+
+      <tr>
+        <td>Author Accountability</td>
+        <td>
+          Every article clearly identifies the author or reviewer, along with update information when applicable, helping readers understand who prepared the content and how it is maintained.
+        </td>
+      </tr>
+
+      <tr>
+        <td>Affiliate Transparency</td>
+        <td>
+          Some pages may include affiliate links. Any potential commission earned does not influence our editorial process, product explanations, or educational recommendations provided to readers.
+        </td>
+      </tr>
+
+      <tr>
+        <td>Continuous Content Review</td>
+        <td>
+          Educational pages are reviewed periodically to improve clarity, update information, and reflect newly available ingredient research or official product updates whenever appropriate.
+        </td>
+      </tr>
+
+    </tbody>
+  </table>
+</div>
+
+
+<!-- Sources Used -->
+<div class="legal-section">
+
+  <h2><i class="fa-solid fa-book-open"></i> Trusted Research References</h2>
+
+  <p>
+    To maintain high editorial quality, Leptozan educational content is developed using respected scientific publications, health organizations, nutrition references, and regulatory resources. These materials help ensure balanced, reader-friendly information that supports informed wellness decisions.
+  </p>
+
+
+  <div class="legal-info-row">
+
+
+    <div class="legal-info-card">
+      <i class="fa-solid fa-microscope"></i>
+      <div class="legal-info-card-text">
+        <h4>Peer-Reviewed Scientific Literature</h4>
+        <p>
+          Research published in recognized medical and scientific journals is reviewed to better understand botanical ingredients, nutritional compounds, and supplement-related topics.
+        </p>
+      </div>
+    </div>
+
+
+    <div class="legal-info-card">
+      <i class="fa-solid fa-hospital"></i>
+      <div class="legal-info-card-text">
+        <h4>Public Health Organizations</h4>
+        <p>
+          Educational guidance from established health authorities and government resources is referenced to provide reliable background information on nutrition and wellness practices.
+        </p>
+      </div>
+    </div>
+
+
+    <div class="legal-info-card">
+      <i class="fa-solid fa-seedling"></i>
+      <div class="legal-info-card-text">
+        <h4>Botanical & Nutrition References</h4>
+        <p>
+          Independent publications covering herbs, plant extracts, and naturally sourced ingredients are reviewed to explain traditional use and general nutritional characteristics.
+        </p>
+      </div>
+    </div>
+
+
+    <div class="legal-info-card">
+      <i class="fa-solid fa-file-shield"></i>
+      <div class="legal-info-card-text">
+        <h4>Supplement Industry Guidelines</h4>
+        <p>
+          Applicable labeling standards, responsible marketing practices, and consumer protection guidance are considered when preparing educational supplement content.
+        </p>
+      </div>
+    </div>
+
+
+  </div>
+
+</div>
+
+  <!-- Contact / Corrections -->
+  <div class="legal-section">
+
+    <h2><i class="fa-solid fa-envelope"></i> Editorial Feedback & Content Updates</h2>
+
+    <p>
+      At Leptozan, we are committed to publishing accurate, transparent, and reader-focused wellness information. If you discover outdated details, inaccurate product information, or believe a page could be improved, we encourage you to share your feedback. Every suggestion helps us maintain high editorial quality and trustworthy educational content.
+    </p>
+
+    <p>
+      To report an editorial concern, request a content review, or submit a correction, please visit our
+      <a href="./contact-us" style="color:var(--green);font-weight:700;text-decoration:underline">
+        Contact Us
+      </a>
+      page. When contacting us, include the page URL and a brief explanation so our editorial team can evaluate the information as efficiently as possible.
+    </p>
+
+
+    <div class="legal-highlight">
+
+      <strong>Our Editorial Promise:</strong>
+      Every verified correction request receives careful review. When updates are warranted, the content is revised to improve accuracy, clarity, and user value, and the page's last updated information is refreshed accordingly.
+
+    </div>
+
+  </div>
+
+  <!-- FDA Disclaimer -->
+
+  <div class="author-disclaimer">
+
+    <i class="fa-solid fa-triangle-exclamation"></i>
+
+    <p>
+
+      <strong>Medical & Educational Disclaimer:</strong>
+      The information published throughout the Leptozan website is intended solely for educational and informational purposes. It should not be interpreted as medical advice or used as a substitute for professional healthcare guidance, diagnosis, or treatment. Dietary supplements may affect individuals differently. Always consult a licensed healthcare professional before starting Leptozan or any nutritional supplement, particularly if you are pregnant, nursing, have a medical condition, or take prescription medications. Individual results and experiences may vary.
+
+    </p>
+
+  </div>
+
+</div><!-- /author-body -->
+
+<!-- FOOTER -->
+<footer>
+  <div class="foot-inner">
+
+    <div>
+      <div class="foot-logo">
+        <i class="fa-solid fa-shield-heart"></i> Leptozan
+      </div>
+
+      <p class="foot-desc">
+        Leptozan is a daily wellness supplement developed with a thoughtfully selected blend of natural ingredients to complement healthy weight management, metabolism support, and overall wellness. When combined with balanced nutrition, regular physical activity, and healthy lifestyle habits, Leptozan provides a convenient addition to a consistent wellness routine.
+      </p>
+
+      <p class="foot-disc">
+        * These statements have not been evaluated by the Food and Drug Administration. Leptozan is not intended to diagnose, treat, cure, or prevent any disease. The information provided on this website is for educational purposes only. Individual results may vary. Consult a qualified healthcare professional before using any dietary supplement.
+      </p>
+
+      <p class="foot-disc" style="margin-top:8px">
+        <strong>Editorially reviewed by:</strong> Emily Roberts, Wellness Research Writer &amp; Content Reviewer. Updated: July 2026.
+      </p>
+    </div>
+
+
+    <div class="foot-col">
+      <h5>Discover</h5>
+      <ul>
+        <li><a href="https://leptozen.com/#how-it-works">How Leptozan Works</a></li>
+        <li><a href="https://leptozen.com/#ingredients">Leptozan Ingredients</a></li>
+        <li><a href="https://leptozen.com/#reviews">Verified Customer Reviews</a></li>
+        <li><a href="https://leptozen.com/#faq">Frequently Asked Questions</a></li>
+      </ul>
+    </div>
+
+
+    <div class="foot-col">
+      <h5>Official Store</h5>
+      <ul>
+        <li><a href="https://leptozen.com/order" target="_blank" rel="nofollow">Buy Leptozan</a></li>
+        <li><a href="https://leptozen.com/order" target="_blank" rel="nofollow">Latest Discounts</a></li>
+        <li><a href="https://leptozen.com/order" target="_blank" rel="nofollow">Package Options</a></li>
+        <li><a href="https://leptozen.com/order" target="_blank" rel="nofollow">Secure Checkout</a></li>
+      </ul>
+    </div>
+
+
+    <div class="foot-col">
+      <h5>Information</h5>
+      <ul>
+        <li><a href="./about">About Leptozan</a></li>
+        <li><a href="./about-author">About the Author</a></li>
+        <li><a href="./privacy-policy">Privacy Policy</a></li>
+        <li><a href="./terms">Terms &amp; Conditions</a></li>
+        <li><a href="./affiliate-disclosure">Affiliate Disclosure</a></li>
+      </ul>
+    </div>
+
+  </div>
+
+
+  <div class="foot-bottom">
+
+    <p>&copy; 2026 Leptozan®. All Rights Reserved.</p>
+
+  </div>
+</footer>
+
+<script>
+  // Mobile nav toggle
+  document.getElementById('navBurger').addEventListener('click', function () {
+    document.getElementById('navLinks').classList.toggle('open');
+  });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,810 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+
+<title>About Leptozan® | Our Mission, Formula & Commitment to Wellness</title>
+
+<meta name="description" content="Learn about Leptozan®, our mission, ingredient philosophy, quality standards, and commitment to supporting healthy weight management and everyday wellness with a carefully formulated dietary supplement.">
+
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
+<meta name="author" content="Emily Roberts">
+<meta name="language" content="English">
+
+<link rel="canonical" href="https://leptozen.com/about">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="About Leptozan® | Our Mission, Formula & Commitment to Wellness">
+<meta property="og:description" content="Discover the story behind Leptozan®, our commitment to quality, carefully selected ingredients, and our approach to supporting healthy weight management and overall wellness.">
+<meta property="og:url" content="https://leptozen.com/about">
+<meta property="og:image" content="https://leptozen.com/assets/images/leptozan-3-bottles.webp">
+<meta property="og:site_name" content="Leptozan Official">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="About Leptozan® | Our Mission, Formula & Commitment to Wellness">
+<meta name="twitter:description" content="Learn about Leptozan®, our ingredient philosophy, product standards, and commitment to providing reliable wellness information.">
+<meta name="twitter:image" content="https://leptozen.com/assets/images/leptozan-3-bottles.webp">
+
+<link rel="icon" type="image/png" href="./assets/images/leptozan-fav.ico">
+
+<!-- Organization -->
+<script type="application/ld+json">
+{
+"@context":"https://schema.org",
+"@type":"Organization",
+"name":"Leptozan",
+"url":"https://leptozen.com/",
+"logo":"https://leptozen.com/assets/images/leptozan-3-bottles.webp",
+"description":"Leptozan is a dietary supplement created to complement healthy weight management, metabolic wellness, and balanced daily nutrition through carefully selected natural ingredients.",
+"foundingDate":"2024",
+"contactPoint":{
+"@type":"ContactPoint",
+"contactType":"Customer Support",
+"url":"https://leptozen.com/contact-us"
+},
+"sameAs":[
+"https://leptozen.com/about"
+]
+}
+</script>
+
+<!-- About Page -->
+<script type="application/ld+json">
+{
+"@context":"https://schema.org",
+"@type":"AboutPage",
+"name":"About Leptozan",
+"url":"https://leptozen.com/about",
+"description":"Learn about Leptozan, our mission, ingredient philosophy, quality standards, and commitment to providing trustworthy wellness information.",
+"publisher":{
+"@type":"Organization",
+"name":"Leptozan",
+"url":"https://leptozen.com/"
+},
+"mainEntity":{
+"@type":"Organization",
+"name":"Leptozan",
+"description":"Leptozan is committed to providing transparent product information, carefully selected ingredients, and educational wellness resources for informed purchasing decisions."
+}
+}
+</script>
+
+<!-- Breadcrumb -->
+<script type="application/ld+json">
+{
+"@context":"https://schema.org",
+"@type":"BreadcrumbList",
+"itemListElement":[
+{
+"@type":"ListItem",
+"position":1,
+"name":"Home",
+"item":"https://leptozen.com/"
+},
+{
+"@type":"ListItem",
+"position":2,
+"name":"About Leptozan",
+"item":"https://leptozen.com/about"
+}
+]
+}
+</script>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;500;600;700;800;900&display=swap" rel="stylesheet"/>
+<link rel="stylesheet" href="./assets/css/styles.css"/>
+<link rel="stylesheet" href="./assets/css/pages.css"/>
+<link rel="stylesheet" href="./assets/css/about.css"/>
+
+</head>
+<body>
+
+<!-- NAV -->
+<nav>
+  <div class="nav-inner">
+    <a href="https://leptozen.com/" class="nav-logo">Leptozan</a>
+
+    <ul class="nav-links" id="navLinks">
+      <li><a href="https://leptozen.com/#how-it-works">How It Works</a></li>
+      <li><a href="https://leptozen.com/#ingredients">Ingredients</a></li>
+      <li><a href="https://leptozen.com/#reviews">Reviews</a></li>
+      <li><a href="https://leptozen.com/#faq">FAQ</a></li>
+    </ul>
+
+    <div class="nav-right">
+      <a href="https://leptozen.com/order" aria-label="Order">Order Now</a>
+      <button class="nav-burger" id="navBurger" aria-label="Toggle menu">
+        <i class="fa-solid fa-bars"></i>
+      </button>
+    </div>
+  </div>
+</nav>
+
+<!-- BREADCRUMB -->
+<div class="page-breadcrumb">
+  <div class="page-breadcrumb-inner">
+    <a href="https://leptozen.com/">
+      <i class="fa-solid fa-house" style="font-size:13px"></i> Home
+    </a>
+    <i class="fa-solid fa-chevron-right"></i>
+    <span>About Leptozan</span>
+  </div>
+</div>
+
+<!-- HERO -->
+<div class="page-hero">
+
+  <p class="page-eyebrow">
+    <i class="fa-solid fa-heart-pulse"></i>
+    About Leptozan
+  </p>
+
+  <h1>Committed To Quality Nutrition, Transparency & Everyday Wellness</h1>
+
+  <p class="page-hero-sub">
+    Leptozan was developed for adults looking to complement a healthy lifestyle with a thoughtfully formulated dietary supplement. Our approach focuses on carefully selected ingredients, quality-focused manufacturing, and providing clear product information that helps customers make informed wellness decisions. We believe long-term success begins with consistency, balanced nutrition, regular physical activity, and products that fit naturally into everyday routines.
+  </p>
+
+  <div class="about-hero-pills">
+    <span class="about-hero-pill">
+      <i class="fa-solid fa-seedling"></i>
+      Natural Ingredient Blend
+    </span>
+
+    <span class="about-hero-pill">
+      <i class="fa-solid fa-award"></i>
+      Quality-Focused Production
+    </span>
+
+    <span class="about-hero-pill">
+      <i class="fa-solid fa-shield-check"></i>
+      180-Day Money-Back Guarantee
+    </span>
+
+    <span class="about-hero-pill">
+      <i class="fa-solid fa-book-open"></i>
+      Transparent Product Information
+    </span>
+  </div>
+
+</div>
+
+<!-- OUR STORY -->
+<div class="story-wrap">
+
+  <div class="story-img-block">
+    <div class="story-img-main">
+      <img src="./assets/images/leptozan-3-bottles.webp" alt="Leptozan Weight Management Supplement" loading="lazy"/>
+    </div>
+
+    <div class="story-img-badge">
+      <span class="story-img-badge-num">180</span>
+      <span class="story-img-badge-label">Day Money-Back<br>Guarantee</span>
+    </div>
+  </div>
+
+  <div class="story-text">
+
+    <p class="s-tag">
+      <i class="fa-solid fa-book-open" style="margin-right:6px"></i>
+      Our Story
+    </p>
+
+    <h2>Why Leptozan Was Created</h2>
+
+    <p>
+      Healthy weight management is often the result of consistent lifestyle choices rather than quick solutions. Leptozan was developed for adults looking to complement balanced nutrition, regular exercise, and everyday wellness with a convenient dietary supplement that fits naturally into daily life.
+    </p>
+
+    <p>
+      From the beginning, our goal has been to focus on ingredient quality, transparency, and responsible product information. Every aspect of Leptozan is designed to help customers better understand the formula, make informed purchasing decisions, and confidently include nutritional support in their long-term wellness routine.
+    </p>
+
+    <p>
+      We believe that trust is earned through consistency, accurate information, and customer satisfaction. That's why Leptozan continues to emphasize carefully selected ingredients, quality-focused manufacturing standards, and a customer-first approach that supports informed wellness choices without unrealistic promises.
+    </p>
+
+    <div class="trust-strip" style="margin-top:20px">
+      <span class="trust-badge"><i class="fa-solid fa-award"></i> Premium Quality</span>
+      <span class="trust-badge"><i class="fa-solid fa-flask"></i> Carefully Selected Ingredients</span>
+      <span class="trust-badge"><i class="fa-solid fa-heart"></i> Everyday Wellness Support</span>
+    </div>
+
+  </div>
+
+</div>
+
+<!-- MISSION & VALUES -->
+<section class="mission-section">
+  <div class="mission-inner">
+
+    <p class="s-tag center">
+      <i class="fa-solid fa-bullseye" style="margin-right:6px"></i>
+      Our Values
+    </p>
+
+    <h2 class="s-heading center">The Principles That Guide Every Leptozan Formula</h2>
+
+    <p class="s-sub center">
+      Everything we do is centered on quality, transparency, and customer confidence. From ingredient selection to product information, Leptozan is developed with the goal of supporting informed wellness decisions while encouraging healthy lifestyle habits and long-term consistency.
+    </p>
+
+    <div class="mission-grid">
+
+      <div class="mission-card">
+        <div class="mission-card-icon">
+          <i class="fa-solid fa-circle-info"></i>
+        </div>
+
+        <h3>Transparent Product Information</h3>
+
+        <p>
+          We believe every customer deserves clear, easy-to-understand information about Leptozan, including its ingredients, recommended use, and product details so they can make informed decisions with confidence.
+        </p>
+      </div>
+
+      <div class="mission-card">
+        <div class="mission-card-icon">
+          <i class="fa-solid fa-leaf"></i>
+        </div>
+
+        <h3>Thoughtfully Selected Ingredients</h3>
+
+        <p>
+          Our formula is built around carefully chosen natural ingredients that complement healthy weight management and metabolic wellness when combined with balanced nutrition and an active lifestyle.
+        </p>
+      </div>
+
+      <div class="mission-card">
+        <div class="mission-card-icon">
+          <i class="fa-solid fa-dumbbell"></i>
+        </div>
+
+        <h3>Supporting Healthy Living</h3>
+
+        <p>
+          Leptozan is intended to become part of a complete wellness routine that includes regular physical activity, nutritious meals, adequate hydration, quality sleep, and consistent healthy habits.
+        </p>
+      </div>
+
+      <div class="mission-card">
+        <div class="mission-card-icon">
+          <i class="fa-solid fa-shield-check"></i>
+        </div>
+
+        <h3>Quality Manufacturing Standards</h3>
+
+        <p>
+          We place a strong emphasis on manufacturing consistency and product quality, helping ensure customers receive a supplement produced with attention to established quality practices.
+        </p>
+      </div>
+
+      <div class="mission-card">
+        <div class="mission-card-icon">
+          <i class="fa-solid fa-users"></i>
+        </div>
+
+        <h3>Customer-First Experience</h3>
+
+        <p>
+          From educational resources to purchasing support, we aim to provide a positive customer experience by offering helpful information, responsive service, and a straightforward ordering process.
+        </p>
+      </div>
+
+      <div class="mission-card">
+        <div class="mission-card-icon">
+          <i class="fa-solid fa-seedling"></i>
+        </div>
+
+        <h3>Long-Term Wellness Focus</h3>
+
+        <p>
+          Rather than promoting unrealistic expectations, Leptozan encourages sustainable daily habits and responsible supplementation as part of an overall commitment to healthier living and personal wellness goals.
+        </p>
+      </div>
+
+    </div>
+
+  </div>
+</section>
+
+<!-- STATS BANNER -->
+<div class="about-stats-banner">
+  <div class="about-stats-inner">
+
+    <div class="about-stat">
+      <div class="about-stat-num">8+</div>
+      <div class="about-stat-label">Natural Plant-Based Ingredients</div>
+    </div>
+
+    <div class="about-stat">
+      <div class="about-stat-num">180</div>
+      <div class="about-stat-label">Day Money-Back Guarantee</div>
+    </div>
+
+    <div class="about-stat">
+      <div class="about-stat-num">Daily</div>
+      <div class="about-stat-label">Metabolism Support Formula</div>
+    </div>
+
+    <div class="about-stat">
+      <div class="about-stat-num">GMP</div>
+      <div class="about-stat-label">Quality Manufacturing Practices</div>
+    </div>
+
+  </div>
+</div>
+
+<!-- INGREDIENT PROMISE -->
+<div class="ingr-promise-wrap">
+  <div>
+
+    <p class="s-tag">
+      <i class="fa-solid fa-seedling" style="margin-right:6px"></i>
+      The Leptozan Formula
+    </p>
+
+    <h2 class="s-heading">
+      Carefully Selected Ingredients Designed To Complement Everyday Wellness
+    </h2>
+
+    <p style="font-size:17px;color:var(--muted);line-height:1.85;margin-bottom:18px">
+      Leptozan is formulated with a thoughtful combination of plant-based extracts and naturally sourced ingredients commonly found in wellness supplements designed for metabolism support and healthy weight management. Each ingredient is selected to complement an active lifestyle, balanced nutrition, and long-term wellness habits without unnecessary complexity.
+    </p>
+
+    <ul class="ingr-promise-list">
+
+      <li>
+        <i class="fa-solid fa-circle-check"></i>
+        <span><strong>Green Tea Extract</strong> — Naturally rich in beneficial plant compounds and traditionally included in wellness formulas that support metabolism and everyday vitality as part of a healthy lifestyle.</span>
+      </li>
+
+      <li>
+        <i class="fa-solid fa-circle-check"></i>
+        <span><strong>Garcinia Cambogia</strong> — A botanical ingredient frequently used in weight management supplements and chosen to complement healthy eating habits and active daily routines.</span>
+      </li>
+
+      <li>
+        <i class="fa-solid fa-circle-check"></i>
+        <span><strong>Apple Cider Vinegar</strong> — A popular wellness ingredient valued for its traditional use in balanced nutrition programs and digestive wellness support.</span>
+      </li>
+
+      <li>
+        <i class="fa-solid fa-circle-check"></i>
+        <span><strong>Turmeric Root</strong> — A well-known botanical that naturally contains antioxidant compounds and is commonly included in wellness supplements for overall health support.</span>
+      </li>
+
+      <li>
+        <i class="fa-solid fa-circle-check"></i>
+        <span><strong>Black Pepper Extract</strong> — Included to complement the overall botanical blend and traditionally used alongside herbal ingredients in nutritional formulations.</span>
+      </li>
+
+      <li>
+        <i class="fa-solid fa-circle-check"></i>
+        <span><strong>Additional Plant-Based Nutrients</strong> — Leptozan combines carefully selected natural ingredients to create a convenient daily supplement that supports healthy metabolism, energy balance, and overall wellness when paired with healthy lifestyle choices.</span>
+      </li>
+
+    </ul>
+
+    <a href="https://leptozen.com/#ingredients"
+       style="display:inline-flex;align-items:center;gap:8px;font-size:16px;font-weight:800;color:var(--green);text-decoration:underline;text-underline-offset:3px;margin-top:8px">
+      <i class="fa-solid fa-flask-vial"></i>
+      Discover The Complete Leptozan Ingredient Profile
+    </a>
+
+  </div>
+
+  <div class="ingr-promise-img">
+    <img src="./assets/images/leptozan-2-bottles.webp"
+         alt="Leptozan Natural Weight Management Formula"
+         loading="lazy"/>
+  </div>
+</div>
+
+<!-- MANUFACTURING STANDARDS -->
+<section class="manufacturing-section">
+  <div class="manufacturing-inner">
+
+    <p class="s-tag center"><i class="fa-solid fa-industry" style="margin-right:6px"></i> Manufacturing Excellence</p>
+
+    <h2 class="s-heading center">How Every Bottle Of Leptozan Is Prepared With Quality In Mind</h2>
+
+    <p class="s-sub center">
+      Leptozan is developed with an emphasis on ingredient quality, responsible manufacturing, and product consistency. Every step, from sourcing selected ingredients to final packaging, is designed to support a dependable wellness experience for customers seeking a convenient daily supplement.
+    </p>
+
+    <div class="manufacturing-grid">
+
+      <div class="mfg-card">
+        <div class="mfg-icon"><i class="fa-solid fa-award"></i></div>
+
+        <div class="mfg-text">
+          <h4>High Manufacturing Standards</h4>
+          <p>
+            Leptozan is produced in facilities that follow recognized quality manufacturing practices, helping maintain consistency, cleanliness, and attention to detail throughout every stage of production.
+          </p>
+        </div>
+      </div>
+
+
+      <div class="mfg-card">
+        <div class="mfg-icon"><i class="fa-solid fa-seedling"></i></div>
+
+        <div class="mfg-text">
+          <h4>Thoughtfully Selected Ingredients</h4>
+          <p>
+            Every botanical ingredient included in Leptozan is chosen for its role within the overall formula, creating a balanced blend designed to complement healthy metabolism, active lifestyles, and everyday wellness goals.
+          </p>
+        </div>
+      </div>
+
+
+      <div class="mfg-card">
+        <div class="mfg-icon"><i class="fa-solid fa-shield-heart"></i></div>
+
+        <div class="mfg-text">
+          <h4>Commitment To Product Quality</h4>
+          <p>
+            Quality remains a priority throughout formulation and production. Leptozan is created with careful attention to ingredient handling, product consistency, and clear labeling to help consumers make informed purchasing decisions.
+          </p>
+        </div>
+      </div>
+
+
+      <div class="mfg-card">
+        <div class="mfg-icon"><i class="fa-solid fa-box-open"></i></div>
+
+        <div class="mfg-text">
+          <h4>Reliable Batch Consistency</h4>
+          <p>
+            Consistent manufacturing practices help ensure that each bottle of Leptozan delivers the same carefully prepared formula, allowing customers to confidently include it in their daily wellness routine.
+          </p>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- MEET THE RESEARCHER -->
+<section class="team-section">
+  <div class="team-inner">
+
+    <p class="s-tag center">
+      <i class="fa-solid fa-user-graduate" style="margin-right:6px"></i>
+      Editorial Standards
+    </p>
+
+    <h2 class="s-heading center">
+      Meet The Wellness Research Professional Behind Our Content
+    </h2>
+
+    <p class="s-sub center">
+      Our Leptozan educational content is prepared to help readers better understand wellness supplements, ingredient research, and healthy lifestyle practices. Every article is written with a focus on accuracy, transparency, and providing useful information that supports informed decision-making.
+    </p>
+
+    <div class="team-card-large">
+
+      <div class="team-avatar-lg">ER</div>
+
+      <div class="team-info">
+
+        <h3>Emily Roberts</h3>
+
+        <p class="team-role">
+          <i class="fa-solid fa-book-medical" style="margin-right:5px"></i>
+          Wellness Content Researcher &amp; Nutritional Supplement Reviewer
+        </p>
+
+        <p>
+          Emily Roberts researches dietary supplements, botanical ingredients, nutrition topics, and wellness trends with an emphasis on evidence-informed educational content. Her work focuses on translating complex ingredient information into practical, reader-friendly guidance that helps consumers better understand products like Leptozan.
+        </p>
+
+        <p>
+          Every Leptozan article is carefully reviewed to ensure balanced, trustworthy, and easy-to-understand information. Rather than making unrealistic claims, our editorial process emphasizes ingredient transparency, responsible wellness education, and user-first content that aligns with modern SEO and EEAT best practices.
+        </p>
+
+        <div class="team-badges">
+          <span class="team-badge-pill"><i class="fa-solid fa-microscope"></i> Ingredient Research</span>
+          <span class="team-badge-pill"><i class="fa-solid fa-book-open"></i> Evidence-Based Writing</span>
+          <span class="team-badge-pill"><i class="fa-solid fa-clipboard-check"></i> Editorial Review Process</span>
+          <span class="team-badge-pill"><i class="fa-solid fa-shield-halved"></i> Trusted Wellness Information</span>
+        </div>
+
+        <div style="margin-top:16px">
+          <a href="./about-author" style="font-size:16px;font-weight:800;color:var(--green);text-decoration:underline;text-underline-offset:3px;display:inline-flex;align-items:center;gap:7px">
+            <i class="fa-solid fa-arrow-right"></i>
+            Learn More About Our Editorial Process
+          </a>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- GUARANTEE -->
+<div class="guarantee-section">
+  <div class="guarantee-inner">
+
+    <div class="guarantee-icon">
+      <i class="fa-solid fa-shield-halved"></i>
+    </div>
+
+    <h2>180-Day Money-Back Guarantee</h2>
+
+    <p>
+      Every official Leptozan order is backed by a 180-day money-back guarantee, giving customers the opportunity to try the product with added confidence. If you are not completely satisfied, you can follow the manufacturer's refund instructions within the guarantee period. This customer-friendly policy reflects Leptozan's commitment to quality, transparency, and a reliable shopping experience.
+    </p>
+
+  </div>
+</div>
+
+<!-- ABOUT PAGE FAQ -->
+<section class="section faq-section">
+  <div class="section-inner">
+
+    <p class="s-tag center">
+      <i class="fa-solid fa-circle-question" style="margin-right:6px"></i>
+      Leptozan Frequently Asked Questions
+    </p>
+
+    <h2 class="s-heading center">
+      Common Questions About Leptozan
+    </h2>
+
+    <p class="s-sub center" style="margin-bottom:40px">
+      Explore answers to the most frequently asked questions about Leptozan, including its natural ingredients, quality standards, recommended use, ordering information, and our commitment to providing accurate wellness education.
+    </p>
+
+    <div class="about-faq-list faq-list">
+
+      <div class="faq-item">
+        <button class="faq-btn" onclick="toggleFaq(this)">
+          What is Leptozan?<i class="fa-solid fa-plus"></i>
+        </button>
+        <div class="faq-answer">
+          Leptozan is a daily dietary supplement created with a blend of carefully selected botanical ingredients. It is designed to complement healthy lifestyle habits and support individuals pursuing balanced nutrition, healthy metabolism, and long-term wellness goals through convenient daily supplementation.
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-btn" onclick="toggleFaq(this)">
+          What makes Leptozan different from similar supplements?<i class="fa-solid fa-plus"></i>
+        </button>
+        <div class="faq-answer">
+          Leptozan combines multiple plant-based ingredients into one convenient formula rather than relying on a single botanical extract. The balanced ingredient profile is designed to complement healthy eating, regular physical activity, and overall wellness routines while emphasizing quality and consistency.
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-btn" onclick="toggleFaq(this)">
+          Who prepares the educational content about Leptozan?<i class="fa-solid fa-plus"></i>
+        </button>
+        <div class="faq-answer">
+          Our Leptozan content is developed using publicly available ingredient research, manufacturer information, and reliable wellness resources. Every page is written with a focus on clarity, transparency, and helping readers make informed decisions without exaggerated health claims.
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-btn" onclick="toggleFaq(this)">
+          Does Leptozan contain natural ingredients?<i class="fa-solid fa-plus"></i>
+        </button>
+        <div class="faq-answer">
+          Yes. Leptozan features a carefully selected blend of plant-based ingredients commonly found in wellness supplements. Customers should always review the official product label for the most accurate and up-to-date ingredient list before beginning any dietary supplement.
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-btn" onclick="toggleFaq(this)">
+          How should Leptozan be used?<i class="fa-solid fa-plus"></i>
+        </button>
+        <div class="faq-answer">
+          Leptozan should always be taken according to the directions provided on the official product label. Consistent daily use, together with balanced nutrition, regular exercise, quality sleep, and healthy lifestyle choices, can help support your overall wellness routine.
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-btn" onclick="toggleFaq(this)">
+          Is Leptozan manufactured under quality standards?<i class="fa-solid fa-plus"></i>
+        </button>
+        <div class="faq-answer">
+          According to the manufacturer, Leptozan is produced in facilities that follow recognized quality manufacturing practices designed to support product consistency, ingredient integrity, and quality control throughout the production process.
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-btn" onclick="toggleFaq(this)">
+          Who can use Leptozan?<i class="fa-solid fa-plus"></i>
+        </button>
+        <div class="faq-answer">
+          Leptozan is intended for healthy adults looking to complement their wellness routine with a dietary supplement. Individuals who are pregnant, nursing, have existing medical conditions, or take prescription medications should consult a qualified healthcare professional before use.
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-btn" onclick="toggleFaq(this)">
+          Does Leptozan treat or cure medical conditions?<i class="fa-solid fa-plus"></i>
+        </button>
+        <div class="faq-answer">
+          No. Leptozan is a dietary supplement intended to support general wellness and healthy lifestyle habits. It is not intended to diagnose, treat, cure, or prevent any disease. Individual experiences may vary depending on personal health and lifestyle factors.
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-btn" onclick="toggleFaq(this)">
+          Where should I purchase Leptozan?<i class="fa-solid fa-plus"></i>
+        </button>
+        <div class="faq-answer">
+          To help ensure product authenticity, current pricing, promotional offers, and eligibility for the manufacturer's guarantee, customers are encouraged to purchase Leptozan directly through the official website.
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-btn" onclick="toggleFaq(this)">
+          Does Leptozan include a money-back guarantee?<i class="fa-solid fa-plus"></i>
+        </button>
+        <div class="faq-answer">
+          Yes. Official Leptozan purchases include a 180-day money-back guarantee. Customers who are not satisfied with their purchase can review the manufacturer's refund policy and follow the official return instructions within the guarantee period.
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-btn" onclick="toggleFaq(this)">
+          How long does Leptozan shipping usually take?<i class="fa-solid fa-plus"></i>
+        </button>
+        <div class="faq-answer">
+          Shipping times depend on your delivery location, order processing schedules, and carrier availability. Once your order is confirmed, tracking information is typically provided so you can monitor your shipment until delivery.
+        </div>
+      </div>
+
+      <div class="faq-item">
+        <button class="faq-btn" onclick="toggleFaq(this)">
+          Can Leptozan be taken with other supplements?<i class="fa-solid fa-plus"></i>
+        </button>
+        <div class="faq-answer">
+          If you currently use other dietary supplements or prescription medications, consult your healthcare provider before adding Leptozan to your routine. A healthcare professional can help determine whether the combination is appropriate for your individual needs.
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- BOTTOM CTA -->
+<div class="about-cta-section">
+
+  <h2>Take The Next Step With Leptozan Today</h2>
+
+  <p>
+    If you're looking for a simple way to support your weight management goals, Leptozan offers a convenient daily supplement made with carefully selected natural ingredients. Explore the available package options, learn more about the formula, and choose the plan that best fits your long-term wellness journey.
+  </p>
+
+  <div class="about-cta-btns">
+
+    <a href="https://leptozen.com/order" class="about-cta-primary" target="_blank" rel="nofollow">
+      <i class="fa-solid fa-bag-shopping"></i> Order Leptozan Now
+    </a>
+
+    <a href="https://leptozen.com/#ingredients" class="about-cta-ghost">
+      <i class="fa-solid fa-leaf"></i> Explore Ingredients
+    </a>
+
+  </div>
+
+  <div class="bottom-guarantee" style="margin-top:28px">
+
+    <div class="b-g-item">
+      <i class="fa-solid fa-shield-halved"></i> 180-Day Money-Back Guarantee
+    </div>
+
+    <div class="b-g-item">
+      <i class="fa-solid fa-truck-fast"></i> Fast & Secure Shipping
+    </div>
+
+    <div class="b-g-item">
+      <i class="fa-solid fa-lock"></i> Protected Online Checkout
+    </div>
+
+  </div>
+
+</div>
+
+<!-- FOOTER -->
+<footer>
+  <div class="foot-inner">
+
+    <div>
+      <div class="foot-logo">
+        <i class="fa-solid fa-shield-heart"></i> Leptozan
+      </div>
+
+      <p class="foot-desc">
+        Leptozan is a premium dietary supplement developed to complement healthy weight management and metabolic wellness. Its thoughtfully selected blend of natural plant-based ingredients is designed to fit easily into a balanced lifestyle that includes proper nutrition, regular exercise, quality sleep, and healthy daily habits.
+      </p>
+
+      <p class="foot-disc">
+        * These statements have not been evaluated by the Food and Drug Administration. Leptozan is not intended to diagnose, treat, cure, or prevent any disease. Individual results may vary. Always consult a qualified healthcare professional before beginning any dietary supplement, especially if you have an existing medical condition, are pregnant or nursing, or take prescription medications.
+      </p>
+
+      <p class="foot-disc" style="margin-top:8px">
+        <strong>Editorial Review:</strong> Content independently researched and reviewed for accuracy, transparency, and user value. Updated July 2026.
+      </p>
+    </div>
+
+
+    <div class="foot-col">
+      <h5>Explore</h5>
+      <ul>
+        <li><a href="https://leptozen.com/#how-it-works">How Leptozan Works</a></li>
+        <li><a href="https://leptozen.com/#ingredients">Ingredient Profile</a></li>
+        <li><a href="https://leptozen.com/#reviews">Customer Reviews</a></li>
+        <li><a href="https://leptozen.com/#faq">Frequently Asked Questions</a></li>
+      </ul>
+    </div>
+
+
+    <div class="foot-col">
+      <h5>Official Store</h5>
+      <ul>
+        <li><a href="https://leptozen.com/order" target="_blank" rel="nofollow">Official Website</a></li>
+        <li><a href="https://leptozen.com/order" target="_blank" rel="nofollow">Current Discounts</a></li>
+        <li><a href="https://leptozen.com/order" target="_blank" rel="nofollow">Package Options</a></li>
+        <li><a href="https://leptozen.com/order" target="_blank" rel="nofollow">Buy Leptozan</a></li>
+      </ul>
+    </div>
+
+
+    <div class="foot-col">
+      <h5>Resources</h5>
+      <ul>
+        <li><a href="./about">About Leptozan</a></li>
+        <li><a href="./about-author">About Our Editorial Team</a></li>
+        <li><a href="./privacy-policy">Privacy Policy</a></li>
+        <li><a href="./terms-conditions">Terms &amp; Conditions</a></li>
+        <li><a href="./affiliate-disclosure">Affiliate Disclosure</a></li>
+      </ul>
+    </div>
+
+
+  </div>
+
+
+  <div class="foot-bottom">
+
+    <p>&copy; 2026 Leptozan®. All Rights Reserved.</p>
+
+  </div>
+</footer>
+
+<script>
+// Mobile nav toggle
+document.getElementById('navBurger').addEventListener('click', function () {
+  const nav = document.getElementById('navLinks');
+  nav.classList.toggle('open');
+  this.querySelector('i').className = nav.classList.contains('open') ? 'fa-solid fa-xmark' : 'fa-solid fa-bars';
+});
+
+// FAQ accordion (matches index pattern)
+function toggleFaq(btn) {
+  const answer = btn.nextElementSibling;
+  const isOpen = btn.classList.contains('open');
+
+  // Close all
+  document.querySelectorAll('.faq-btn.open').forEach(b => {
+    b.classList.remove('open');
+    b.nextElementSibling.classList.remove('open');
+  });
+
+  if (!isOpen) {
+    btn.classList.add('open');
+    answer.classList.add('open');
+  }
+}
+</script>
+
+</body>
+</html>
